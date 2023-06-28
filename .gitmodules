@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "weatherindices"]
 	path = weatherindices
 	url = https://github.com/akstat21/weatherindices
-	shallow = true
-	registered = true
